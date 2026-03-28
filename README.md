@@ -1,120 +1,83 @@
 
-## 🗺️ Data Analysis Roadmap
+# 🗺️ Data Analysis Roadmap 
 
-This roadmap outlines the step-by-step path I am following to build strong data analysis skills using Python.
 
----
+## 🟢 Phase 1: Data Acquisition & Storage
 
-### 🟢 Phase 1: Python Foundations
-**Goal:** Become comfortable with Python for data work
+**Objective:** Gather and organize raw data
 
-- Python basics (variables, loops, functions)
-- Data types & structures
-  - Lists, tuples, sets, dictionaries
-- File handling
-- Basic error handling
-- Working with Jupyter Notebook
+* Collect data from multiple sources (databases, CSV, Excel)
+* Connect to relational databases using **SQL**
+* Extract, transform, and load (ETL) raw datasets
+* Ensure data quality and integrity at the source
 
 ---
 
-### 🟢 Phase 2: NumPy – Numerical Computing
-**Goal:** Efficient numerical operations
+## 🟢 Phase 2: Data Cleaning & Preprocessing
 
-- NumPy arrays
-- Indexing & slicing
-- Array operations
-- Mathematical & statistical functions
-- Broadcasting
-- Random number generation
+**Objective:** Prepare raw data for analysis
 
----
-
-### 🟢 Phase 3: Pandas – Data Manipulation
-**Goal:** Handle real-world datasets
-
-- Series & DataFrame
-- Reading data (CSV, Excel, JSON)
-- Data cleaning
-- Handling missing values
-- Filtering & sorting
-- GroupBy operations
-- Merging & joining datasets
-- Feature engineering (basics)
+* Handle missing values, duplicates, and inconsistencies
+* Standardize formats (dates, strings, numbers)
+* Data transformations and feature creation in **Excel / Power BI / SQL**
+* Validate data accuracy with cross-checks
 
 ---
 
-### 🟢 Phase 4: Exploratory Data Analysis (EDA)
-**Goal:** Understand data and extract insights
+## 🟢 Phase 3: Data Exploration & Analysis
 
-- Data overview & structure
-- Summary statistics
-- Univariate analysis
-- Bivariate & multivariate analysis
-- Outlier detection
-- Correlation analysis
-- Data quality checks
+**Objective:** Understand patterns, trends, and relationships
 
----
-
-### 🟢 Phase 5: Data Visualization
-**Goal:** Communicate insights visually
-
-- Matplotlib fundamentals
-- Seaborn statistical plots
-- Line, bar, scatter, histogram plots
-- Boxplots & violin plots
-- Heatmaps & pair plots
-- Customizing plots
-- Visual storytelling
+* Explore datasets with **Excel and SQL queries**
+* Summarize data using pivot tables, groupings, and aggregates
+* Identify outliers, trends, and correlations
+* Perform **funnel analysis** to track leads → sales
+* Generate key metrics for business insights
 
 ---
 
-### 🟢 Phase 6: Statistics for Data Analysis
-**Goal:** Make data-driven decisions
+## 🟢 Phase 4: Data Visualization
 
-- Descriptive statistics
-- Probability basics
-- Data distributions
-- Sampling techniques
-- Confidence intervals
-- Hypothesis testing
-  - Z-test
-  - T-test
-  - Chi-square test (intro)
-- Correlation vs causation
+**Objective:** Communicate insights clearly
+
+* Build dashboards with **Power BI**
+* Visualize KPI trends, funnel progression, and conversions
+* Use slicers and interactive filters for deep insights
+* Highlight actionable insights with charts, tables, and graphs
+* Design dashboards for both **executives and operational teams**
 
 ---
 
-### 🟢 Phase 7: Real-World Projects
-**Goal:** Apply skills to real datasets
+## 🟢 Phase 5: Reporting & Insights
 
-- Data cleaning projects
-- EDA on real datasets
-- Business problem analysis
-- Creating insights & recommendations
-- Writing clear conclusions
+**Objective:** Deliver data-driven recommendations
 
----
-
-### 🟢 Phase 8: Tools & Best Practices
-**Goal:** Work like a professional analyst
-
-- Git & GitHub
-- Project structuring
-- Writing clean & readable code
-- Documentation & README writing
-- Reproducible analysis
+* Summarize findings in reports and dashboards
+* Translate metrics into business actions
+* Track performance over time (daily, monthly, quarterly)
+* Identify gaps and suggest improvements in processes
 
 ---
 
-### 🟢 Phase 9: Next Steps (Future Learning)
-**Goal:** Advance toward data science
+## 🟢 Phase 6: Tools & Best Practices
 
-- SQL for data analysis
-- Advanced statistics
-- Machine learning basics
-- Power BI / Tableau
-- Portfolio building
- 
+**Objective:** Work efficiently and professionally
 
-Just tell me what style you want 👍
+* **SQL** – querying and data manipulation
+* **Excel** – cleaning, pivot tables, advanced formulas
+* **Power BI** – dashboards, visual storytelling, DAX measures
+* Version control with **Git & GitHub**
+* Maintain reproducible workflows and documentation
+
+---
+
+## 🟢 Phase 7: Real-World Projects
+
+**Objective:** Apply end-to-end analysis on raw data
+
+* Funnel analysis dashboards (Lead → Quote → Sale → Exceeded)
+* Sales performance analysis and KPIs
+* Trend analysis over time
+* Actionable recommendations based on data insights
+
+---
